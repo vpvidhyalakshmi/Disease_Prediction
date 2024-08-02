@@ -16,11 +16,11 @@ Beginning with a meticulous evaluation of data completeness and quality, my init
 
 Embarking on a journey of learning new functions in machine-learning Python libraries! 📚
 
-📊 MinMaxScaler: A gem from scikit-learn, designed to scale features to a specified range, typically between 0 and 1. Crucial for many ML algorithms, ensuring all features contribute equally to model training, especially when they vary in scales or units.
+📊**MinMaxScaler:** A gem from scikit-learn, designed to scale features to a specified range, typically between 0 and 1. Crucial for many ML algorithms, ensuring all features contribute equally to model training, especially when they vary in scales or units.
 
-🌟 LinearDiscriminantAnalysis (LDA): It's a dimensionality reduction and classification technique in machine learning and statistics.  LDA seeks the optimal linear combination of features to effectively characterize or separate classes by maximizing the between-class to within-class variance ratio.
+🌟**LinearDiscriminantAnalysis (LDA):** It's a dimensionality reduction and classification technique in machine learning and statistics.  LDA seeks the optimal linear combination of features to effectively characterize or separate classes by maximizing the between-class to within-class variance ratio.
 
-🔄 Cross-Validation Score (cross_val_score) Function: A convenient method within scikit-learn for performing cross-validated scoring of an estimator (model) on a dataset. This function streamlines the process of data splitting, model fitting, and score computation, providing a more reliable estimate of how well a model will generalize to new, unseen data.
+🔄**Cross-Validation Score (cross_val_score) Function:** A convenient method within scikit-learn for performing cross-validated scoring of an estimator (model) on a dataset. This function streamlines the process of data splitting, model fitting, and score computation, providing a more reliable estimate of how well a model will generalize to new, unseen data.
 
 
 **Usage**
