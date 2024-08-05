@@ -25,7 +25,7 @@ Embarking on a journey of learning new functions in machine-learning Python libr
 
 **Usage**
 
-Feel free to explore my project and use the code as a reference for your data modelling endeavors Please provide appropriate credit if you find my work helpful.
+Feel free to explore my project and use the code as a reference for your data modelling endeavors. Please provide appropriate credit if you find my work helpful.
 
 **License**
 
