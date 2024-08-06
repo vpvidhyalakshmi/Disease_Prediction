@@ -1,4 +1,4 @@
-# Disease Prediction	
+# Disease Prediction using Machine Learning  
 
 **About**
 
