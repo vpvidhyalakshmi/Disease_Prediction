@@ -1,4 +1,4 @@
-# Disease_Prediction	
+# Disease Prediction	
 
 **About**
 
